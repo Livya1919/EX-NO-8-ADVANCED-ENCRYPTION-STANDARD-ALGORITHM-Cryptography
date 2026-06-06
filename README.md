@@ -13,6 +13,9 @@ To use Advanced Encryption Standard (AES) Algorithm for a practical application 
 
 4.AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
+## NAME: LIVYA DHARSHINI G
+## REGISTER NUMBER: 2305001013
+
 ## PROGRAM:
 ```
 #include <stdio.h>
