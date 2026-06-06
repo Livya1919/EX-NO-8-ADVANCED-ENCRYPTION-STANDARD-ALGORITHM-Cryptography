@@ -1,6 +1,5 @@
 # EX-NO-8-ADVANCED-ENCRYPTION-STANDARD-ALGORITHM
 
-
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
@@ -46,6 +45,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+<img width="461" height="251" alt="image" src="https://github.com/user-attachments/assets/79d4c894-b86a-492f-ad4c-2453e84c166a" />
+
 
 ## RESULT:
 
